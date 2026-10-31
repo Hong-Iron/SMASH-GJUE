@@ -1,0 +1,89 @@
+{
+  "code": "GJUE",
+  "title": "SMASH GJUE",
+  "school": "공주교대",
+  "fullName": "공주교육대학교",
+  "campusName": "공주교육대학교",
+  "tagline": "공주교대를 부셔 (시험기간 스트레스 해소)",
+  "description": "공주교육대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 공주교육대학교 3D 화면과 SMASH GJUE 제목",
+  "url": "https://hong-iron.github.io/SMASH-GJUE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 557191107
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.4417328,
+        127.1172531
+      ],
+      "n": "7동(입지관)",
+      "why": "항공사진에 없음 — 대장에는 6층짜리 입지관으로 적혀 있지만 이 숲 가장자리에는 높은 건물도 긴 그림자도 없고 낮은 회색 바닥만 보이며, 진짜 입지관은 1번이다."
+    },
+    {
+      "at": [
+        36.443283,
+        127.1173819
+      ],
+      "n": "2동(운동장본부석)",
+      "why": "항공사진에 없음 — 이 자리는 대학본부 북쪽 숲 가장자리의 굽은 길과 주차 칸뿐이고 건물이 없으며, 실제 운동장 본부석은 트랙 서쪽의 20번이다."
+    }
+  ],
+  "look": {
+    "입지관": {
+      "style": "stone",
+      "wall": "#9a9894",
+      "glass": "#4f5357",
+      "frame": "#c8c8c8"
+    },
+    "청목관": {
+      "style": "stone",
+      "wall": "#b5b1ae",
+      "glass": "#556367",
+      "frame": "#d0d0cc"
+    },
+    "공주교육대학교 도서관": {
+      "style": "stone",
+      "wall": "#b4b2b3",
+      "glass": "#4d6b6b",
+      "frame": "#9f9e9d"
+    },
+    "음악관 & 박물관": {
+      "style": "tan",
+      "wall": "#868472",
+      "glass": "#50607a",
+      "frame": "#d8dcdc"
+    },
+    "4동(고마스포츠센터)": {
+      "style": "glass",
+      "wall": "#7c7c80",
+      "glass": "#2a3032",
+      "frame": "#2b2b2d"
+    },
+    "과학관": {
+      "style": "stone",
+      "wall": "#bbbdbd",
+      "glass": "#5f6e75",
+      "frame": "#9da09c"
+    },
+    "금혜사": {
+      "style": "brick",
+      "wall": "#64524c",
+      "glass": "#2f3236",
+      "frame": "#e6e6e2",
+      "roof": "#43352f",
+      "hip": true
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
